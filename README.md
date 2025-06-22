@@ -13,8 +13,8 @@ Fully trained from scratch using PyTorch on a T4 GPU in Google Colab.
 No pre-trained weights used — complies with exam restrictions.
 
 🚀 Live Demo
-🔗 Click here to launch the app
-(replace with actual link after deploying)
+🔗 [Click here to launch the app](https://handwritten-digit-generation-web-app-spwz4vkjeaves9jfoqsag9.streamlit.app/)
+
 
 🛠️ Tech Stack
 Component	Tool
